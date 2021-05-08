@@ -1,5 +1,0 @@
-Numpy-practice
-
-
-
-
